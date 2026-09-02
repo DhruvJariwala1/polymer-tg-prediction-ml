@@ -2,7 +2,7 @@
 
 A machine-learning project for predicting polymer **glass transition temperature (Tg)** from SMILES-derived molecular descriptors and polymer class information.
 
-This repository is a cleaned, reproducible portfolio version of a final project completed for **CL653 — Applications of AI and ML for Chemical Engineering**.
+This repository is a cleaned, reproducible portfolio version of a final project completed for **CL653 - Applications of AI and ML for Chemical Engineering**.
 
 ## Project overview
 
